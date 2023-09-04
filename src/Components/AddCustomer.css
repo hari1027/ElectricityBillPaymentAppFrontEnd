@@ -1,0 +1,304 @@
+td {
+    align-items: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-style: italic;
+    font-family:revert;
+  }
+#CustomerIdlabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative; 
+}
+#userIdlabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#userNamelabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#aadharNumberlabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#firstNamelabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#middleNamelabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#lastNamelabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#mobileNumberlabel2{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#mobileNumberlabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+
+
+
+.hidden{
+    visibility:hidden;
+ }
+
+label{
+    color: red;
+    font-size: 20px;
+}
+
+.table{
+    text-align: left;
+    width: 500px;
+    padding-left: 100px;
+}
+
+.form{
+    border: 10px double grey;
+    background-color: yellow;
+    align-items: center;
+    width: 600px;
+    margin-left: 850px;
+}
+
+#viewCustomerIdlabel{
+    font-size: small;
+    color: black;
+    left: 175px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative; 
+}
+
+#viewUserIdlabel{
+    font-size: small;
+    color: black;
+    left: 175px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative; 
+}
+
+#viewaadharNumberlabel{
+    font-size: small;
+    color: black;
+    left: 175px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative; 
+}
+
+#viewmobileNumberlabel2{
+    font-size: small;
+    color: black;
+    left: 175px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#viewmobileNumberlabel{
+    font-size: small;
+    color: black;
+    left: 175px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+
+#viewfirstNamelabel{
+    font-size: small;
+    color: black;
+    left: 175px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+
+#viewuserNamelabel{
+    font-size: small;
+    color: black;
+    left: 175px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+
+#addressIdlabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative; 
+}
+
+#flatorhousenumberlabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative; 
+}
+
+#buildingnamelabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative; 
+}
+
+#districtlabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative; 
+}
+
+#statelabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative; 
+}
+
+#pincodelabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative; 
+}
+
+#viewaddressIdlabel{
+    font-size: small;
+    color: black;
+    left: 175px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative; 
+}
+
+#connectionIdlabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#consumernumberlabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#connectionIdlabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#connectionstatuslabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#connectiontypelabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#readingIdlabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#unitsconsumedlabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#readingphotolabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+#billIdlabel{
+    font-size: small;
+    color: black;
+    left: 275px;
+    background: rgb(225, 175, 175);
+    border-radius: 5px;
+    position: relative;
+}
+
+

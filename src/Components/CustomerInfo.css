@@ -1,0 +1,33 @@
+.td {
+  align-items: left;
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-style: italic;
+  font-family: revert;
+  
+  
+}
+
+.customerInfo {
+  text-align: center;
+  border: 5px solid black;
+  margin-left: 600px;
+
+}
+
+.thead {
+  align-items: left;
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-style: italic;
+  font-family: revert;
+  color: red;
+  
+}
+
+.customerIdInfo
+{
+  text-align: center;
+  border: 5px solid black;
+  margin-left: 700px;
+}
